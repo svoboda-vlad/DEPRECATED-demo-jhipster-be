@@ -156,3 +156,5 @@ Desktop.ini
 ######################
 /coverage/
 /.nyc_output/
+/.apt_generated/
+/.apt_generated_tests/
