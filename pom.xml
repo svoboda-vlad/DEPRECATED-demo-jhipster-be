@@ -737,6 +737,7 @@
                                 <generatorName>spring</generatorName>
                                 <apiPackage>svobodavlad.web.api</apiPackage>
                                 <modelPackage>svobodavlad.service.api.dto</modelPackage>
+                                <modelNameSuffix>DTO</modelNameSuffix>
                                 <supportingFilesToGenerate>ApiUtil.java</supportingFilesToGenerate>
                                 <importMappings>Problem=org.zalando.problem.Problem</importMappings>
                                 <skipValidateSpec>false</skipValidateSpec>
